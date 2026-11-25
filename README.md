@@ -27,3 +27,6 @@ Requires macOS with Swift from Apple’s command-line developer tools. ImageIO d
 Run `swift PaletteDrop.swift --self-test` to check color ranking and contrast.
 
 [MIT license](LICENSE)
+
+GitHub Actions runs the Swift self-test on macOS for pull requests and updates
+to the default branch.
